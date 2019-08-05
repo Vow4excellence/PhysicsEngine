@@ -35,3 +35,4 @@ function draw(){
 
     ellipseMode(RADIUS);
     ellipse(ball.position.x, ball.position.y, 20, 20);
+}
